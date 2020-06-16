@@ -1,5 +1,5 @@
 # Coursera_Capstone Battle of Neighborhoods Section-1
-### Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. 
+# 1. Clearly define a problem or an idea of your choice, where you would need to leverage the Foursquare location data to solve or execute. 
 There are 100's, maybe even 1000's, of travel sites on the Internet, including [FourSquare](www.foursquare.com), that will tell you all about places to go, things to see, restaurants to eat at, bars to drink in, nightclubs to part the night away in and then where to go in the morning to get breakfast and a strong coffee. The problems with these sites is that they are one dimensional. If you want to find out all this information about a city you plan to visit next month, **you** have to do the hard work. Also, just because a venue is the hottest place to go for a night out does not always mean that the unwitting tourist should just ramble in unprepared. The areas surrounding this new venue might be riddled with crime including muggings, car theft and assault, for example. Approach the venue from any direction other than from the north and you could be putting your life in danger. This is when my idea comes in.
 
 Imagine the following scenario:
@@ -11,7 +11,7 @@ Imagine the following scenario:
 5. Also the last time you went to a conference you were mugged and had you passport. money and credit cards stolen so you're now nervous of going somewhere without first researching the venue and the surrounding area.
 6. The conference is next week and you don't have time to do all the research you'd like.
 
-### Describe the data that you will be  using to solve the problem or execute your idea.
+# 2. Describe the data that you will be  using to solve the problem or execute your idea.
 My idea for the Capstone Project is to show that when driven by venue and location data from FourSquare, backed up with open source crime data, that it is possible to present the cautious and nervous traveller with a list of attractions to visit supplementd with a graphics showing the occurance of crime in the region of the venue.
 
 A high level approach is as follows:
